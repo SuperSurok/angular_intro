@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd7db74-9a10-4343-a0a8-90b35ecd80f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/shared/todo.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/todo_form/todo_form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/todo_form/todo_form.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/todo_item/todo_item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/todo_item/todo_item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/todo_item/todo_item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/todo_item/todo_item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/todo_list/todo_list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/todo_list/todo_list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/shared/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/shared/data.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/shared/todo.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/shared/todo.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/shared/todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/shared/todo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/todo_list/todo_list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/todo_list/todo_list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemjs.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/systemjs.config.js" afterDir="false" />
     </list>
     <list id="f18051e3-1b0c-4761-ac61-666e6c315aec" name="Add form." comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -70,34 +70,57 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1878407290">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="ts" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="TypeScript" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="ts" value="933" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="TypeScript" value="933" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/todo_list/todo_list.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="105" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/todo_item/todo_item.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/todo_form/todo_form.component.ts">
+        <entry file="file://$PROJECT_DIR$/app/shared/todo.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="546">
+              <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,34 +129,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/todo_list/todo_list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#0#47#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/shared/todo.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/todo_item/todo_item.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -162,22 +169,24 @@
         <option value="$PROJECT_DIR$/app/todo_form/todo_form.component.css" />
         <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.css.ts" />
         <option value="$PROJECT_DIR$/app/shared/data.ts" />
-        <option value="$PROJECT_DIR$/app/shared/todo.ts" />
         <option value="$PROJECT_DIR$/app/app.component.css" />
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.css" />
         <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.css" />
         <option value="$PROJECT_DIR$/app/todo_form/todo_form.component.html" />
         <option value="$PROJECT_DIR$/app/shared/service.ts" />
-        <option value="$PROJECT_DIR$/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/app/app.component.ts" />
         <option value="$PROJECT_DIR$/app/app.component.html" />
-        <option value="$PROJECT_DIR$/app/shared/todo.service.ts" />
-        <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.ts" />
         <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.html" />
         <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.ts" />
         <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.html" />
         <option value="$PROJECT_DIR$/app/todo_form/todo_form.component.ts" />
+        <option value="$PROJECT_DIR$/systemjs.config.js" />
+        <option value="$PROJECT_DIR$/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.ts" />
+        <option value="$PROJECT_DIR$/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/app/shared/todo.ts" />
+        <option value="$PROJECT_DIR$/app/shared/data.service.ts" />
+        <option value="$PROJECT_DIR$/app/shared/todo.service.ts" />
       </list>
     </option>
   </component>
@@ -225,6 +234,13 @@
               <item name="angular_intro" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular_intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular_intro" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="data.service.ts" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="angular_intro" type="b2602c69:ProjectViewProjectNode" />
@@ -285,6 +301,8 @@
       <workItem from="1539406616231" duration="3995000" />
       <workItem from="1539499487411" duration="4260000" />
       <workItem from="1539802964974" duration="3532000" />
+      <workItem from="1539808581709" duration="88000" />
+      <workItem from="1539892011061" duration="3193000" />
     </task>
     <task id="LOCAL-00001" summary="Add form.">
       <created>1539447713147</created>
@@ -318,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11787000" />
+    <option name="totallyTimeSpent" value="15068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="1348" extended-state="0" />
@@ -339,7 +357,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961783" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32961783" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3009554" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -349,20 +367,24 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/shared/todo.js" />
-        <option value="$PROJECT_DIR$/app/shared/todo.js.map" />
-        <option value="$PROJECT_DIR$/app/shared/data.js.map" />
-        <option value="$PROJECT_DIR$/app/shared/data.js" />
-        <option value="$PROJECT_DIR$/app/main.js.map" />
-        <option value="$PROJECT_DIR$/app/app.module.js.map" />
-        <option value="$PROJECT_DIR$/app/main.js" />
-        <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.js.map" />
-        <option value="$PROJECT_DIR$/app/app.component.js" />
-        <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.js" />
-        <option value="$PROJECT_DIR$/app/app.module.js" />
-        <option value="$PROJECT_DIR$/app/app.component.js.map" />
         <option value="$PROJECT_DIR$/app/todo_form/todo_form.component.js" />
         <option value="$PROJECT_DIR$/app/todo_form/todo_form.component.js.map" />
+        <option value="$PROJECT_DIR$/app/shared/data.js.map" />
+        <option value="$PROJECT_DIR$/app/shared/todo.service.js.map" />
+        <option value="$PROJECT_DIR$/app/shared/data.js" />
+        <option value="$PROJECT_DIR$/app/shared/todo.service.js" />
+        <option value="$PROJECT_DIR$/app/shared/todo.js" />
+        <option value="$PROJECT_DIR$/app/shared/todo.js.map" />
+        <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.js.map" />
+        <option value="$PROJECT_DIR$/app/todo_list/todo_list.component.js" />
+        <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.js.map" />
+        <option value="$PROJECT_DIR$/app/todo_item/todo_item.component.js" />
+        <option value="$PROJECT_DIR$/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/app/app.module.js" />
+        <option value="$PROJECT_DIR$/app/main.js" />
+        <option value="$PROJECT_DIR$/app/app.component.js" />
+        <option value="$PROJECT_DIR$/app/main.js.map" />
+        <option value="$PROJECT_DIR$/app/app.component.js.map" />
       </list>
     </option>
   </component>
@@ -409,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/data.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -443,37 +458,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/todo.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/todo_form/todo_form.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -484,23 +472,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/todo.service.ts">
+    <entry file="file://$PROJECT_DIR$/app/todo_form/todo_form.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        <state relative-caret-position="399">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/todo_list/todo_list.component.ts">
+    <entry file="file://$PROJECT_DIR$/app/todo_item/todo_item.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="19">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -518,19 +503,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/todo_item/todo_item.component.html">
+    <entry file="file://$PROJECT_DIR$/systemjs.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        <state relative-caret-position="323">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/todo_form/todo_form.component.ts">
+    <entry file="file://$PROJECT_DIR$/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todo_list/todo_list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/todo.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/todo.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
